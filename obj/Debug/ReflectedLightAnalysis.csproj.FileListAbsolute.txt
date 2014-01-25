@@ -1,0 +1,10 @@
+D:\AutoCAD\ReflectedLightAnalysis\ReflectedLightAnalysis\obj\Debug\ResolveAssemblyReference.cache
+D:\AutoCAD\ReflectedLightAnalysis\ReflectedLightAnalysis\obj\Debug\ReflectedLightAnalysis.FormReflectedLight.resources
+D:\AutoCAD\ReflectedLightAnalysis\ReflectedLightAnalysis\obj\Debug\ReflectedLightAnalysis.ModelessForm.resources
+D:\AutoCAD\ReflectedLightAnalysis\ReflectedLightAnalysis\obj\Debug\ReflectedLightAnalysis.MyCommands.resources
+D:\AutoCAD\ReflectedLightAnalysis\ReflectedLightAnalysis\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\AutoCAD\ReflectedLightAnalysis\ReflectedLightAnalysis\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\AutoCAD\ReflectedLightAnalysis\ReflectedLightAnalysis\bin\Debug\ReflectedLightAnalysis_32.dll
+D:\AutoCAD\ReflectedLightAnalysis\ReflectedLightAnalysis\bin\Debug\ReflectedLightAnalysis_32.pdb
+D:\AutoCAD\ReflectedLightAnalysis\ReflectedLightAnalysis\obj\Debug\ReflectedLightAnalysis_32.dll
+D:\AutoCAD\ReflectedLightAnalysis\ReflectedLightAnalysis\obj\Debug\ReflectedLightAnalysis_32.pdb
